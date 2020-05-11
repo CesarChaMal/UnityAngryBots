@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angry Bots.CSharp.Plugins", "Angry Bots.CSharp.Plugins.csproj", "{4CAF7D82-ABB1-B245-74FA-E19552AF5524}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angry Bots.CSharp", "Angry Bots.CSharp.csproj", "{068E49AD-6BEC-C935-1499-A3A8781FE238}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angry Bots.CSharp.Editor", "Angry Bots.CSharp.Editor.csproj", "{72248C04-7948-1D04-1B41-375A4C857026}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CAF7D82-ABB1-B245-74FA-E19552AF5524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CAF7D82-ABB1-B245-74FA-E19552AF5524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CAF7D82-ABB1-B245-74FA-E19552AF5524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CAF7D82-ABB1-B245-74FA-E19552AF5524}.Release|Any CPU.Build.0 = Release|Any CPU
+		{068E49AD-6BEC-C935-1499-A3A8781FE238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{068E49AD-6BEC-C935-1499-A3A8781FE238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{068E49AD-6BEC-C935-1499-A3A8781FE238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{068E49AD-6BEC-C935-1499-A3A8781FE238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72248C04-7948-1D04-1B41-375A4C857026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72248C04-7948-1D04-1B41-375A4C857026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72248C04-7948-1D04-1B41-375A4C857026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72248C04-7948-1D04-1B41-375A4C857026}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
